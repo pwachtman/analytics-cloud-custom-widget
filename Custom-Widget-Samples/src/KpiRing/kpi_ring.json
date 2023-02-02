@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-ring_kpi",
-      "url": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/dist/main.bundle.js",
+      "url": "https://github.com/pwachtman/analytics-cloud-custom-widget/blob/main/Custom-Widget-Samples/src/KpiRing/kpi_ring.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
