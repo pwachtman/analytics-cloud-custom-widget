@@ -12,7 +12,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sac-sample-echarts-sankey",
-      "url": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/dist/main.bundle.js",
+      "url": "https://github.com/pwachtman/analytics-cloud-custom-widget/blob/main/Custom-Widget-Samples/dist/main.bundle.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
