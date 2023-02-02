@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-nested_chart",
-      "url": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/Nested-Pie-Chart/main_nested.js",
+      "url": "https://github.com/pwachtman/analytics-cloud-custom-widget/blob/4928c6b306e81d5bc9f7eadffcf074b9f6213677/Custom-Widget-Samples/Nested-Pie-Chart/main_nested.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
