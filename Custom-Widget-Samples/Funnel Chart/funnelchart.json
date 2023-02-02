@@ -11,7 +11,7 @@
         {
             "kind": "main",
             "tag": "github-sap-funnel-chart",
-            "url": "https://sap-samples.github.io/analytics-cloud-custom-widget/Custom-Widget-Samples/Funnel Chart/funnelchart.js",
+            "url": "https://github.com/pwachtman/analytics-cloud-custom-widget/blob/6ac1c0e3bc4edf63fe02b75ef971b4f96685f3a2/Custom-Widget-Samples/Funnel%20Chart/funnelchart.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
